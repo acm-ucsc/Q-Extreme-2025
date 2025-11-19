@@ -1,7 +1,7 @@
 # Q-Extreme Hackathon – Qiskit Fall Fest 2025  
 ### Participant Project Repository
 
-Welcome to my submission repository for **Q-Extreme**, Sri Lanka’s first-ever quantum computing hackathon organized by the **UCSC ACM Student Chapter**. This repo contains my solutions for all three tasks: Quantum Chemistry, Quantum Cryptography, and the Speed Challenge.
+Welcome to my submission repository for **Q-Extreme**, Sri Lanka’s first-ever quantum computing hackathon organized by the **UCSC ACM Student Chapter**.
 
 ---
 
