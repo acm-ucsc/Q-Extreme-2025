@@ -11,7 +11,7 @@ Welcome to **Q-Extreme**! Over the next five days, you will push the boundaries 
 
 ## 📅 Timeline
 
-*All times are in IST (Indian Standard Time).*
+*All times are in SLST (Sri Lankan Standard Time).*
 
 * **Competition Start:** Wednesday, November 19th @ 12:00 PM
 * **Long-Format Challenges (Tasks 1 & 2):** Released at Start. Open until competition closes.
