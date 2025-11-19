@@ -13,4 +13,4 @@ Welcome to my submission repository for **Q-Extreme**, Sri Lanka’s first-ever 
 Participants tackle three categories:
 1. **Quantum Chemistry & Optimization**  
 2. **Quantum Cryptography & Research**  
-3. **Speed Round (Timed Challenge)**  
+
