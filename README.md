@@ -62,7 +62,7 @@ The hackathon consists of three main tasks totaling **100 Points**.
 * **Research & Robustness Report (20 Marks):**
     * Identifying real-world challenges (e.g., photon loss, dark counts).
     * Implementing solutions (e.g., Privacy Amplification, Decoy States).
-    * Quality, novelty, and depth of the written report (written inside the notebook).
+    * Quality, novelty, and depth of the written report.
 
 ### Task 3: The Speed Round (20 Points)
 
